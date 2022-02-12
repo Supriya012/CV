@@ -1,0 +1,35 @@
+body{
+  background-color:#D6E5FA;
+
+}
+h1{
+    color:#7A0BC0;
+    font-family: cursive,Lucida Handwriting,Fantasy	;
+  }
+h2{
+  color:#9C51E0;
+  font-family: cursive,Brush Script MT	;
+}
+h3{
+  color:#9C51E0;
+  font-family: cursive,Brush Script MT	;
+}
+p{
+  font-family: Papyrus;
+}
+ul{
+  font-family: Papyrus;
+}
+table{
+  font-family: Papyrus;
+}
+label{
+  font-family: Papyrus;
+}
+hr{
+background-color:#FBE5E5;
+border-style:none;
+border-top-style: dotted;
+border-width:10px;
+width:20%
+}
